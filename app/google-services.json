@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422455582659",
+    "firebase_url": "https://dacg-241715.firebaseio.com",
+    "project_id": "dacg-241715",
+    "storage_bucket": "dacg-241715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422455582659:android:6460ffc4c89463e0",
+        "android_client_info": {
+          "package_name": "com.example.dacg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422455582659-25kd1pdssnm2o19fo98s51vqi6pfu5rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO824_E1pwwV1gyFT4lxtrM-ui4AK4Yac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422455582659-25kd1pdssnm2o19fo98s51vqi6pfu5rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
